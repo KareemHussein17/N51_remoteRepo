@@ -2,7 +2,9 @@
 
 int main()
 {
-printf("Nasr_51\n");
+int x = 4;
+int y = 8;
+int u = 9;
 return 0;
 }
 
